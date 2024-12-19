@@ -1,7 +1,7 @@
 # Retail Sales Analysis Dashboard
 
 ## Project Objective
-The goal of this project is to simulate the analysis of a real business with a dataset. The aim is to showcase skills in multiple tools and what I can achieve for a business. Specifically, an interactive dashboard will be developed to visualize the data, business situation across time, identify trends easily and extracting meaningfull insights that will be usefull for the company's board decisions.
+The goal of this project is to simulate the analysis of a real business with a dataset. The aim is to showcase skills in multiple tools and what I can achieve for a business. Specifically, an interactive dashboard will be developed to visualize the data, business situation across time, identify trends easily and extracting meaningful insights that will be useful for the company's board decisions.
 
 ## Tools Used
 - **Python:** For data analysis and cleaning.
