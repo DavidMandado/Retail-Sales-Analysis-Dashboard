@@ -1,7 +1,9 @@
 # Retail Sales Analysis Dashboard
 
 ## Project Objective
-The goal of this project is to simulate the analysis of a real business with a dataset. The aim is to showcase skills in multiple tools and what I can achieve for a business. Specifically, an interactive dashboard will be developed to visualize the data, business situation across time, identify trends easily and extracting meaningful insights that will be useful for the company's board decisions.
+The goal of this project is to simulate the analysis of a real business with a dataset. The aim is to showcase skills in multiple 
+tools and what I can achieve for a business. Specifically, an interactive dashboard will be developed to visualize the data, business 
+situation across time, identify trends easily and extracting meaningful insights that will be useful for the company's board decisions.
 
 ## Tools Used
 - **Python:** For data analysis and cleaning.
@@ -20,3 +22,12 @@ The goal of this project is to simulate the analysis of a real business with a d
 ## Dataset
 - Source: Kaggle ([Tata Online Retail Dataset](https://www.kaggle.com/datasets/ishanshrivastava28/tata-online-retail-dataset))
 - Description: Contains transaction data including InvoiceNo, StockCode, Product Descriptions, Quantity, Unit Price, CustomerID, and Country.
+
+## Process documentation
+
+In this section all of the process will be presented, along with any reasoning or explanations that are worth mentioning.
+
+# 1. Data loading and exploration/cleaning (notebook data_loading_and_exploration.ipynb)
+
+
+
